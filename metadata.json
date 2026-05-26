@@ -1,0 +1,6 @@
+{
+  "name": "Synthesis Engine",
+  "description": "An interactive, high-fidelity visual framework demonstrating the merge of fluid liquid animations and structural UI layouts with dynamic simulation parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
