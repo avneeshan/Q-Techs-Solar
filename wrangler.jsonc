@@ -11,8 +11,6 @@
   "compatibility_flags": [
     "nodejs_compat"
   ]
-}
-{
   "observability": {
     "enabled": false,
     "head_sampling_rate": 1,
@@ -26,6 +24,5 @@
       "enabled": false,
       "persist": true,
       "head_sampling_rate": 1
-    }
-  }
 }
+
